@@ -1,2 +1,2 @@
-Hello GitHub!
-Git practice assignment
+안녕하세요
+
